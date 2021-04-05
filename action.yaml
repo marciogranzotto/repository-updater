@@ -1,7 +1,7 @@
 ---
-name: "Community Home Assistant Add-ons Repository Updater"
+name: "Fixed Home Assistant Add-ons Repository Updater"
 description: Tool for updating Home Assistant Add-on repositories.
-author: frenck
+author: marciogranzotto
 
 branding:
   color: red
